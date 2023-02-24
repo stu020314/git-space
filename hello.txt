@@ -1,2 +1,3 @@
 hello git!
 hello git
+中文等哈
